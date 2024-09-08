@@ -36,8 +36,7 @@ Se você também é apaixonado por programação e quer ajudar a melhorar essa a
 
 **#olimpiadas #atletasbrasileiros #programacao #webdev #javascript**
 
-**[Inserir aqui um GIF animado de um atleta comemorando]**
-
-**Dica:** Para deixar o seu README ainda mais legal, você pode adicionar badges com as tecnologias utilizadas, um gráfico mostrando o número de commits ou até mesmo um link para uma demonstração online da aplicação.
+**Deploy: Demonstração - Link**
+https://olimpiadas-pi-five.vercel.app/
 
 **Gostou? Deixe um ⭐ para mostrar seu apoio!** 
