@@ -1,7 +1,6 @@
+### Projeto da ## Imersão Dev com Google Gemini na Alura
+
 ###  **Que tal dar uma olhada nos nossos craques brasileiros?** 
-
-## Imersão Dev com Google Gemini na Alura
-
 
 **O que essa aplicação faz?**
 
