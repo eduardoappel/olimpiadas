@@ -1,7 +1,9 @@
 ###  **Que tal dar uma olhada nos nossos craques brasileiros?** 
 
+## Imersão Dev com Google Gemini na Alura
+
+
 **O que essa aplicação faz?**
-**Imersão Dev com Gemini - Alura**
 
 Imagine que você é um fã de esportes e quer saber tudo sobre seus atletas favoritos. Com essa ferramenta, você pode pesquisar por nome, modalidade ou até mesmo por uma descrição e descobrir um monte de informações legais sobre cada um deles! 
 
